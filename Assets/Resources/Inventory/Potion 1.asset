@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 965992a79e11ada4494089af59b253bf, type: 3}
+  m_Name: Potion 1
+  m_EditorClassIdentifier: 
+  id: 4
+  displayName: Potion 1
+  Icon: {fileID: 21300000, guid: e52ea25af699fd445b7046374f81a5b9, type: 3}
+  prefab: {fileID: 8166436941506285653, guid: c97ec219cbd3aa641bfa5269bb7eac1f, type: 3}
+  statToEnhance:
+  - statToEnhance: 5
+    statEnhance: 25
+  ItemType: 1
+  EquipSpot: 0

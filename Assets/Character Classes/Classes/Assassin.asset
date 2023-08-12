@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10f183ba73a948241aa456ffbe10a3b3, type: 3}
+  m_Name: Assassin
+  m_EditorClassIdentifier: 
+  Class: 1
+  description: The assassin's specialty is the use of stealth to ambush and kill
+    targets. Assassins often fill roles as killers-for-hire, spies, bounty hunters,
+    and zealots. They typically work together in secretive specialist guilds.
+  strength: 3
+  agilty: 4
+  stamina: 5
+  luck: 2
+  magic: 1
+  playerPrefab: {fileID: 1098484332309335177, guid: 12e5974ad07cf7d41bdf934829cfaa4e, type: 3}
